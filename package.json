@@ -1,0 +1,38 @@
+{
+  "name": "ecoplate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@google/genai": "^1.47.0",
+    "@google/generative-ai": "^0.24.1",
+    "avatar64": "^1.1.0",
+    "firebase": "^12.9.0",
+    "gsap": "^3.14.2",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.575.0",
+    "next": "^16.2.2",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-leaflet": "^5.0.0",
+    "three": "^0.183.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/leaflet": "^1.9.21",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.183.1",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^10.0.1",
+    "eslint-config-next": "^0.2.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
