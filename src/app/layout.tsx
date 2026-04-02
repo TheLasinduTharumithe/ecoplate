@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://yourdomain.com"), // 🔴 CHANGE THIS to your real domain
+    metadataBase: new URL("https://ecoplate-bay.vercel.app/"), // 🔴 CHANGE THIS to your real domain
 
     title: {
         default: "EcoPlate",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
         title: "EcoPlate - Reduce Food Waste",
         description:
             "Join EcoPlate to connect surplus food with those in need through a smart, real-time donation system.",
-        url: "https://yourdomain.com",
+        url: "https://ecoplate-bay.vercel.app/",
         siteName: "EcoPlate",
         images: [
             {
